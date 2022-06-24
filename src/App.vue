@@ -8,14 +8,12 @@
 
 <template>
   
-  <div>
+  <div class="mt-10 mx-10">
    <router-view ></router-view>
   </div>
   
 </template>
 
 <style>
-#app {
 
-}
 </style>
